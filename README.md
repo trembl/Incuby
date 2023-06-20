@@ -1,6 +1,8 @@
 # Incuby
 
 Tiny Modular Incubators for the DIY Bio Lab
+`#0969DA`
+
 
 ## Design Goals
 
