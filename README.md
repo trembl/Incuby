@@ -2,6 +2,10 @@
 
 Tiny Modular Incubators for the DIY Bio Lab
 
+## Previous Work
+
+During FabAcademy 2021 I attempted to make a [small, modular incubator](https://fabacademy.org/2021/labs/kamakura/students/georg-tremmel/final/#presentationimage). 
+
 ## Design Goals
 
 - Powered by standard USB-C Power (5V, max 3A)
