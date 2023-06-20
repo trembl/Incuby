@@ -9,6 +9,7 @@ Tiny Modular Incubators for the DIY Bio Lab
 - Remote Control/Monitoring
 - Interal Air Circulation
 - Internal Temperature Sensor
+- External Temperature Sensor(s)
 - Stackable
 - Low Operation Noise
 - Low Cost of Production
@@ -17,25 +18,13 @@ Tiny Modular Incubators for the DIY Bio Lab
 - Minimal 3D Printing for Fixtures and Hinges
 - Optional Exterior Isolation Panels
 
-> **Note:** This is how you write a note.
->
-> It can have multiple lines.
-
-## Add-Ons
+## Possible Add-Ons
 
 - Internal Plant Lights
 - Internal Camera(s)
 - Internal Shaker
-- USB-PD?
-
-!!! note
-tststst
-
-<details>
-  <summary > Test </summary>
-  fsfsfn
-  sfjsfnjsknfs
-</details>
+- USB-PD
+- Light/Power Rail Integration (Horizonal Movement)
 
 
 [^1]: Laser Cutter, FDM 3D Printer, PCB Milling Machine
