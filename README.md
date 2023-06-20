@@ -26,13 +26,8 @@ Tiny Modular Incubators for the DIY Bio Lab
 - Internal Shaker
 - USB-PD?
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+!!! note
+tststst
 
 <details>
   <summary > Test </summary>
