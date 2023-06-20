@@ -1,7 +1,7 @@
 # Incuby
 
 Tiny Modular Incubators for the DIY Bio Lab
-`#0969DA`
+
 
 
 ## Design Goals
@@ -26,6 +26,11 @@ Tiny Modular Incubators for the DIY Bio Lab
 - Internal Shaker
 - USB-PD?
 
+<details>
+  <summary > Test </summary>
+  fsfsfn
+  sfjsfnjsknfs
+</details>
 
 
 [^1]: Laser Cutter, FDM 3D Printer, PCB Milling Machine
